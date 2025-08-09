@@ -1,8 +1,8 @@
-> **Aviso:** Esta documentación está en construcción y la información puede variar. Este aviso desaparecerá una vez el contenido esté completo.
+**Aviso:** Esta documentación está en construcción y la información puede variar. Este aviso desaparecerá una vez el contenido esté completo.
 
 # Logística y Dependencias Involucradas
 
-El **Rally Latinoamericano de Innovación 2015-Colombia** implicó la coordinación de múltiples dependencias internas de la Universidad Nacional de Colombia y aliados externos.  
+El **Rally Latinoamericano de Innovación 2015 - Colombia** implicó la coordinación de múltiples dependencias internas de la Universidad Nacional de Colombia y aliados externos.  
 La gestión logística fue liderada por **Adriana Paternina**, coordinadora nacional del evento, quien estuvo a cargo de **articular, comunicar y coordinar** con todas las áreas para garantizar que cada detalle estuviera listo antes y durante las 28 horas de competencia. Su trabajo incluyó la planificación previa, el seguimiento a cada dependencia y la resolución en tiempo real de necesidades operativas.
 
 Esta labor se realizó en articulación con el **Centro de Desarrollo e Innovación (CD+I)** de la Facultad de Minas y bajo la dirección del **profesor Andrés Osorio**.
@@ -39,3 +39,11 @@ Esta labor se realizó en articulación con el **Centro de Desarrollo e Innovaci
 - Plan de alimentación para participantes y jurados.  
 - Disponibilidad de soporte técnico y de comunicación en todo momento.  
 - Gestión de imprevistos en coordinación directa con todas las áreas mencionadas.
+
+## Premios y Souvenirs
+
+Además de la experiencia formativa, todos los participantes recibieron **souvenirs conmemorativos** del evento, incluyendo artículos promocionales y material alusivo al Rally.  
+
+Los **equipos ganadores a nivel sede y nacional** recibieron premios adicionales como reconocimiento a su desempeño, entregados durante la ceremonia de clausura con la presencia de jurados, organizadores y representantes institucionales.  
+
+La coordinación de la entrega de premios y souvenirs estuvo a cargo de **Adriana Paternina**, quien se aseguró de que cada participante y equipo recibiera su reconocimiento de forma oportuna.
