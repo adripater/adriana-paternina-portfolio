@@ -10,16 +10,21 @@ El Rally Latinoamericano de Innovación es una competencia internacional que pro
 - Chile
 - Colombia
 - Costa Rica
+- Ecuador
 - El Salvador
 - México
 - Nicaragua
 - Paraguay
 - Uruguay
-- **TODO:** Confirmar y agregar otros países participantes según registros oficiales.
+
+## Universidades participantes en Colombia (2015)
+- **Universidad Nacional de Colombia — Sede Medellín** (sede principal nacional)
+- **Universidad de Antioquia**
+- **Instituto Tecnológico Metropolitano (ITM)**
 
 ## Organización internacional
 Coordinado por un comité internacional con representantes de varios países.  
 **TODO:** Agregar nombres y cargos de los coordinadores internacionales si eran públicos en 2015.
 
 ## Cómo llegó a Colombia
-El evento fue traído por primera vez a Colombia por el CDI de la Facultad de Minas de la Universidad Nacional de Colombia, en colaboración con otras universidades del país.
+El evento fue traído por primera vez a Colombia por el **Centro de Desarrollo e Innovación (CD+I)** de la Facultad de Minas de la Universidad Nacional de Colombia, en colaboración con otras universidades del país.
