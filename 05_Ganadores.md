@@ -1,10 +1,23 @@
-> **Aviso:** Esta documentación está en construcción y la información puede variar. Este aviso desaparecerá una vez el contenido esté completo.
+> **Aviso**: Esta documentación está en construcción y la información puede variar. Este aviso desaparecerá una vez completada.
 
-# Ganadores
+# Resultados Ganadores – Colombia 2015
 
-- Ganadores de sede: proclamados el 10 de octubre de 2015 a las 3 p.m.
-- Ganadores nacionales: proclamados el 10 de octubre de 2015 a las 5 p.m.
-- Ganadores latinoamericanos: proclamados el 12 de octubre de 2015.
-- En cada categoría, el primer lugar recibió incentivos en efectivo y entradas a eventos académicos.
+## Categoría Innovación – 1er puesto
+- **Equipo:** INGEVAR  
+- **Desafío:** Seguridad de ciclistas y corredores  
+- **Video:** [Ver en YouTube](https://www.youtube.com/watch?v=SK2qr2RcAxE)
 
-**TODO:** Agregar nombres de los ganadores, sedes, categorías y fotos si las encuentro.
+## Categoría Impacto Social – 1er puesto
+- **Equipo:** Bernoulli  
+- **Desafío:** Creación de un sistema de captación de aguas reutilizables para su purificación y redistribución  
+- **Video:** [Ver en YouTube](https://www.youtube.com/watch?v=_bSbwkyspX4)
+
+## Categoría Innovación – 2do puesto
+- **Equipo:** Innovamix  
+- **Desafío:** Recuperación de trampas centolleras  
+- **Video:** [Ver en YouTube](https://www.youtube.com/watch?v=g2LCeev_fTc)
+
+## Categoría Impacto Social – 2do puesto
+- **Equipo:** Idera  
+- **Desafío:** Estrategia para la reutilización de residuos generados por la industria forestal  
+- **Video:** [Ver en Powtoon](https://www.powtoon.com/online-presentation/c7XYYFSEFOh/#/)
