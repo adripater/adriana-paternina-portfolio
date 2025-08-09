@@ -1,1 +1,15 @@
+# No subir exportaciones crudas ni datos sensibles
+*.mbox
+*.pst
+*.zip
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Carpetas temporales
+out/
+tmp/
 
