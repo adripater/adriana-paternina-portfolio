@@ -1,11 +1,13 @@
+**Language / Idioma:** [ES](README.md) | [EN](README_en.md)  
+
 # Rally Latinoamericano de Innovación 2015. Sede Medellín, Colombia
 
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
-Este repositorio documenta la **coordinación general del Rally Latinoamericano de Innovación 2015 en la Sede Medellín de la Universidad Nacional de Colombia**, liderada por **Adriana María Paternina Páez** bajo el **Centro de Desarrollo e Innovación (CD+I) de la Facultad de Minas**.
+Este repositorio forma parte del portafolio profesional de **Adriana María Paternina Páez** y documenta su rol como **Coordinadora General del Rally Latinoamericano de Innovación 2015 en la Sede Medellín de la Universidad Nacional de Colombia**, bajo el **Centro de Desarrollo e Innovación (CD+I) de la Facultad de Minas**.  
 
-El evento se desarrolló en simultáneo con otras sedes y países de Latinoamérica, logrando integrar instituciones, empresas y mentores que hicieron posible su realización.  
-La sede Medellín fue una de las sedes nacionales, contando con la participación activa de universidades de la región y con un trabajo de logística y coordinación interdependencias para asegurar el éxito de las 28 horas de competencia.
+El evento, liderado y coordinado por Adriana, se desarrolló en simultáneo con otras sedes y países de Latinoamérica, logrando integrar instituciones, empresas y mentores que hicieron posible su realización.  
+La sede Medellín fue una de las sedes nacionales más destacadas, con participación activa de universidades de la región y un trabajo logístico y de coordinación interdependencias que garantizó el éxito de las 28 horas de competencia.
 
 📌 **Este repositorio incluye:**
 - Contexto del Rally y su alcance internacional
