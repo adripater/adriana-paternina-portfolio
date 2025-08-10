@@ -1,4 +1,4 @@
-# Rally Latinoamericano de Innovación 2015 — Sede Medellín, Colombia
+# Rally Latinoamericano de Innovación 2015. Sede Medellín, Colombia
 
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
