@@ -1,5 +1,3 @@
-> **Aviso:** Esta documentación está en construcción y la información puede variar. Este aviso desaparecerá una vez el contenido esté completo.
-
 # Indicadores clave — Rally Latinoamericano de Innovación 2015 (Colombia)
 
 ## Panorama general
