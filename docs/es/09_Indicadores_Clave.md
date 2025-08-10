@@ -1,4 +1,4 @@
-# Indicadores clave — Rally Latinoamericano de Innovación 2015 (Colombia)
+# Indicadores clave - Rally Latinoamericano de Innovación 2015 (Colombia)
 
 ## Panorama general
 - **Fechas:** 09/10/2015 – 10/10/2015  
