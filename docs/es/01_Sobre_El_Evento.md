@@ -1,5 +1,3 @@
-> **Aviso:** Esta documentación está en construcción y la información puede variar. Este aviso desaparecerá una vez el contenido esté completo.
-
 # Sobre el evento
 
 ## ¿Qué es el Rally Latinoamericano de Innovación?
