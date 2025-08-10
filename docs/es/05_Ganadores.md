@@ -1,5 +1,3 @@
-> **Aviso**: Esta documentación está en construcción y la información puede variar. Este aviso desaparecerá una vez completada.
-
 # Resultados Ganadores – Colombia 2015
 
 ## Categoría Innovación – 1er puesto
