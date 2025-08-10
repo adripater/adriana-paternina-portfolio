@@ -1,5 +1,3 @@
-> **Aviso:** Esta documentación está en construcción y la información puede variar. Este aviso desaparecerá una vez el contenido esté completo.
-
 # Retos propuestos - Rally Latinoamericano de Innovación 2015  
 Sede Medellín, Universidad Nacional de Colombia
 
