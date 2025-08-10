@@ -1,3 +1,5 @@
+**Language / Idioma:** [ES](03_Empresas_Participantes.md) | [EN](03_Participating_Companies.md)
+
 # Rol y responsabilidades
 
 ## Coordinación general en la Sede Medellín
