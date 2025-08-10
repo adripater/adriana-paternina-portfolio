@@ -7,5 +7,3 @@
 - Bimbo
 - Proantioquia
 - ETB
-
-**TODO:** Agregar breve descripción de cada empresa y su rol específico en el evento.
