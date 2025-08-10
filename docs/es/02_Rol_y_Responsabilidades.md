@@ -1,7 +1,7 @@
 # Rol y responsabilidades
 
 ## Coordinación general en la Sede Medellín
-En 2015, la **coordinación general del Rally Latinoamericano de Innovación en la Sede Medellín** de la Universidad Nacional de Colombia estuvo a cargo de **Adriana María Paternina Páez**, bajo la dirección del **profesor Andrés Fernando Osorio Arias** (Director del Centro de Desarrollo e Innovación — CD+I) y con el apoyo del equipo ejecutor del CD+I:
+En 2015, **Adriana María Paternina Páez** lideró la **coordinación general del Rally Latinoamericano de Innovación en la Sede Medellín** de la Universidad Nacional de Colombia, bajo la dirección del **profesor Andrés Fernando Osorio Arias** (Director del Centro de Desarrollo e Innovación - CD+I) y con el apoyo del equipo ejecutor del CD+I:
 - Alejandro Martín Naranjo  
 - Jader Rengifo David  
 - Milady Aguilera Cardona  
