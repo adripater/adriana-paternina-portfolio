@@ -1,3 +1,5 @@
+**Language / Idioma:** [ES](05_Ganadores.md) | [EN](05_Winning_Results.md)
+
 # Resultados Ganadores – Colombia 2015
 
 ## Categoría Innovación – 1er puesto
