@@ -1,5 +1,3 @@
-> **Aviso:** Esta documentación está en construcción y la información puede variar. Este aviso desaparecerá una vez el contenido esté completo.
-
 # Impacto
 
 El Rally Latinoamericano de Innovación 2015 en la sede Medellín de la Universidad Nacional de Colombia generó un impacto significativo a nivel local e internacional, demostrando la capacidad de **Adriana** para coordinar eventos híbridos en tiempo real mucho antes de que esta práctica se popularizara en la era post-pandemia.
