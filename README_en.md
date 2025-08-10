@@ -1,42 +1,44 @@
-**Language / Idioma:** [ES](README.md) | [EN](README_en.md)
+**Language / Idioma:** [ES](README.md) | [EN](README_en.md)  
 
+# Latin American Innovation Rally 2015. Medellín, Colombia
 
-# About the event
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
-The 2015 Latin American Innovation Rally in the Medellín campus of the National University of Colombia was coordinated by **Adriana María Paternina Páez**, who led the local organization and maintained active communication with coordinators from other universities and the international committee. This hybrid event, held in 2015, connected multiple countries in real time for 28 consecutive hours, anticipating the technological collaboration dynamics that are now common in the post-pandemic era.
+This repository is part of the professional portfolio of **Adriana María Paternina Páez** and documents her role as **General Coordinator of the Latin American Innovation Rally 2015 at the Medellín campus of the National University of Colombia**, under the **Centro de Desarrollo e Innovación (CD+I) of the Faculty of Mines**.  
 
-## What is the Latin American Innovation Rally?
-The Latin American Innovation Rally is an international team competition that promotes open innovation among university students across Latin America. It takes place simultaneously in all participating countries, lasting 28 consecutive hours, where teams must address real-world challenges proposed by companies, NGOs, or other public and private organizations ([rallydeinnovacion.org](https://www.rallydeinnovacion.org/?utm_source=chatgpt.com)).
+The event, led and coordinated by Adriana, was held simultaneously with other venues and countries in Latin America, successfully integrating institutions, companies, and mentors that made it possible.  
+The Medellín venue was one of the most prominent national sites, with active participation from regional universities and a high-level logistical and interdepartmental coordination effort that ensured the success of the 28-hour competition.
 
-Beyond generating creative and viable solutions, the event aims to strengthen teamwork, foster university-industry collaboration, and encourage hands-on learning in a high-pressure, internationally collaborative environment.
+📌 **This repository includes:**
+- Context of the Rally and its international scope
+- Details of the 2015 edition at the Medellín venue
+- Role and responsibilities of the general venue coordination
+- Participating companies and proposed challenges
+- Winners and public videos
+- Impact and lessons learned
+- Logistics and involved departments
+- Key participation and organization indicators
+- Event aggregated budget
 
-## Participating countries in 2015
-- Argentina  
-- Chile  
-- Colombia  
-- Costa Rica  
-- Ecuador  
-- El Salvador  
-- Mexico  
-- Nicaragua  
-- Paraguay  
-- Uruguay  
+📂 **Detailed content**
+- [01 — About the event](01_About_The_Event.md)  
+- [02 — Role and responsibilities](02_Role_and_Responsibilities.md)  
+- [03 — Participating companies](03_Participating_Companies.md)  
+- [04 — Proposed challenges](04_Proposed_Challenges.md)  
+- [05 — Winners](05_Winners.md)  
+- [06 — Public videos](06_Public_Videos.md)  
+- [07 — Impact](07_Impact.md)  
+- [08 — Logistics and dependencies](08_Logistics_and_Dependencies.md)  
+- [09 — Key indicators](09_Key_Indicators.md)  
+- [10 — Event budget](10_Budget.md)  
 
-## Participating universities in Colombia (2015)
-- **National University of Colombia - Medellín Campus** (national main venue)  
-- **National University of Colombia - Bogotá Campus** (participation with Professor Rafael as guest judge)  
-- **University of Antioquia**  
-- **Metropolitan Technological Institute (ITM)**
+## Credits and acknowledgements
 
-## International organization
-The Rally is organized by an **international executive committee** made up of:
-- **ACOFI** (Colombian Association of Engineering Faculties) - Colombia  
-- **CONFEDI** (Federal Council of Engineering Deans) - Argentina  
-- **ANFEI** (National Association of Faculties and Schools of Engineering) - Mexico  
+**CD+I Director:** Andrés Fernando Osorio Arias  
+**General Coordination for Medellín Venue:** Adriana María Paternina Páez  
+**CD+I Execution Team:**  
+- Alejandro Martín Naranjo  
+- Jader Rengifo David  
+- Milady Aguilera Cardona  
 
-These organizations work with national coordinators from each country to plan, coordinate, and evaluate the event. In Colombia, ACOFI also acted as national jury, evaluating projects and ensuring the quality of the winner selection process.
-
-## How it came to Colombia
-The Latin American Innovation Rally was first brought to Colombia by the **Center for Development and Innovation (CD+I)** of the Faculty of Mines at the National University of Colombia, under the direction of **Professor Andrés Osorio** and the **general coordination of the Medellín campus by Adriana María Paternina Páez**.  
-
-The **Bogotá Campus** participated as an associated venue, with the presence of **Professor Rafael** as guest judge, which enriched the evaluation process and strengthened the connection between campuses. This collaboration allowed the Rally to be held in two campuses of the National University and fostered joint work with the **University of Antioquia** and the **Metropolitan Technological Institute (ITM)** to consolidate the first edition in Colombia.
+Special thanks to all departments of the National University of Colombia — Medellín Campus and to the companies and external partners who made this event possible.
