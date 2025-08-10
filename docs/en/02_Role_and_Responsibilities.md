@@ -1,3 +1,5 @@
+**Language / Idioma:** [ES](03_Empresas_Participantes.md) | [EN](03_Participating_Companies.md)
+
 # Role and Responsibilities
 
 ## General Coordination at Medellín Campus
