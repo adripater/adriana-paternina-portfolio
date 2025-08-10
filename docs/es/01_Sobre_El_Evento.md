@@ -1,3 +1,5 @@
+**Language / Idioma:** [ES](03_Empresas_Participantes.md) | [EN](03_Participating_Companies.md)
+
 # Sobre el evento
 
 ## ¿Qué es el Rally Latinoamericano de Innovación?
