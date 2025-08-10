@@ -1,5 +1,3 @@
-> **Aviso:** Esta documentación está en construcción y la información puede variar. Este aviso desaparecerá una vez el contenido esté completo.
-
 # Rol y responsabilidades
 
 ## Coordinación general en la Sede Medellín
