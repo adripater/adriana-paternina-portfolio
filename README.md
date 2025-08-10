@@ -1,21 +1,22 @@
-# Rally Latinoamericano de Innovación 2015. Colombia-Sede Medellín
+# Rally Latinoamericano de Innovación 2015 — Sede Medellín, Colombia
 
 [![Licencia: CC BY 4.0](https://img.shields.io/badge/Licencia-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
 
-Este repositorio documenta la **organización y desarrollo del Rally Latinoamericano de Innovación 2015 en la Sede Medellín de la Universidad Nacional de Colombia**, liderada por el **Centro de Desarrollo e Innovación (CD+I) de la Facultad de Minas**.
+Este repositorio documenta la **coordinación general del Rally Latinoamericano de Innovación 2015 en la Sede Medellín de la Universidad Nacional de Colombia**, liderada por **Adriana María Paternina Páez** bajo el **Centro de Desarrollo e Innovación (CD+I) de la Facultad de Minas**.
 
-La coordinación general para la sede Medellín estuvo a cargo de **Adriana María Paternina Páez**, en articulación con el **Profesor Andrés Fernando Osorio Arias** (Director del CD+I) y el equipo ejecutor del CD+I. El evento fue parte de la organización nacional realizada por **ACOFI** (Asociación Colombiana de Facultades de Ingeniería) y se desarrolló en paralelo con otras sedes de Colombia y Latinoamérica.
+El evento se desarrolló en simultáneo con otras sedes y países de Latinoamérica, logrando integrar instituciones, empresas y mentores que hicieron posible su realización.  
+La sede Medellín fue una de las sedes nacionales, contando con la participación activa de universidades de la región y con un trabajo de logística y coordinación interdependencias para asegurar el éxito de las 28 horas de competencia.
 
 📌 **Este repositorio incluye:**
 - Contexto del Rally y su alcance internacional
-- Detalles de la edición 2015 en Colombia y en la Sede Medellín
-- Rol y responsabilidades de la coordinación local
+- Detalles de la edición 2015 en la sede Medellín
+- Rol y responsabilidades de la coordinación general de sede
 - Empresas participantes y retos propuestos
 - Ganadores y videos públicos
 - Impacto y aprendizajes
 - Logística y dependencias involucradas
-- Datos y métricas
-- Presupuesto agregado
+- Indicadores clave de participación y organización
+- Presupuesto agregado del evento
 
 📂 **Contenido detallado**
 - [01 — Sobre el evento](01_Sobre_El_Evento.md)  
@@ -26,17 +27,16 @@ La coordinación general para la sede Medellín estuvo a cargo de **Adriana Mar�
 - [06 — Videos públicos](06_Videos_Publicos.md)  
 - [07 — Impacto](07_Impacto.md)  
 - [08 — Logística y dependencias](08_Logistica_y_Dependencias.md)  
-- [09 — Datos y métricas](09_Datos_y_Metricas.md)  
-- [10 — Presupuesto del evento](10_Presupuesto_Evento.md)  
+- [09 — Indicadores clave](09_Indicadores_Clave.md)  
+- [10 — Presupuesto del evento](10_Presupuesto.md)  
 
 ## Créditos y agradecimientos
 
-**Organización Sede Medellín — Universidad Nacional de Colombia**  
-- **Director CD+I:** Andrés Fernando Osorio Arias  
-- **Coordinación General del Evento:** Adriana María Paternina Páez  
-- **Equipo Ejecutor CD+I:**  
-  - Alejandro Martín Naranjo  
-  - Jader Rengifo David  
-  - Milady Aguilera Cardona  
+**Director del CD+I:** Andrés Fernando Osorio Arias  
+**Coordinación General del Evento para Sede Medellín:** Adriana María Paternina Páez  
+**Equipo ejecutor CD+I:**  
+- Alejandro Martín Naranjo  
+- Jader Rengifo David  
+- Milady Aguilera Cardona  
 
-Organización nacional a cargo de **ACOFI** (Asociación Colombiana de Facultades de Ingeniería), en coordinación con universidades de todo el país y el Comité Ejecutivo Internacional del Rally Latinoamericano de Innovación.
+Agradecimientos especiales a todas las dependencias de la Universidad Nacional de Colombia — Sede Medellín y a las empresas y aliados externos que hicieron posible la realización de este evento.
