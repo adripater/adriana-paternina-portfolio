@@ -1,6 +1,6 @@
 # Adriana Paternina - Portfolio
 
-**Language / Idioma:** [ES](README.md) | [EN](README_en.md)  
+**Language / Idioma:** [ES](#bienvenidos) | [EN](#welcome)
 
 ---
 
