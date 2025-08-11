@@ -1,4 +1,4 @@
-**Language / Idioma:** [ES](03_Empresas_Participantes.md) | [EN](03_Participating_Companies.md)
+**Language / Idioma:** [ES](../es/03_Empresas.md) | [EN](../en/03_Participating_Companies.md)
 
 # Participating Companies and Organizations
 
