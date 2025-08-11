@@ -1,3 +1,5 @@
+**Language / Idioma:** [ES](../es/10_Presupuesto.md) | [EN](../en/10_Budget.md)
+
 # Presupuesto, Rally Latinoamericano de Innovación 2015 (Colombia)
 
 Este presupuesto consolidado presenta únicamente datos agregados del evento, sin identificación de proveedores ni valores unitarios, con el fin de proteger información sensible y mantener la trazabilidad de los recursos a un nivel general.
