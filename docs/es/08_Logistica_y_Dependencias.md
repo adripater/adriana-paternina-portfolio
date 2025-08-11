@@ -1,3 +1,5 @@
+**Language / Idioma:** [ES](../es/08_Logistica_y_Dependencias.md) | [EN](../en/08_Logistics_and_Dependencies.md)
+
 # Logística y Dependencias Involucradas
 
 El **Rally Latinoamericano de Innovación 2015 - Colombia** implicó la coordinación de múltiples dependencias internas de la Universidad Nacional de Colombia y aliados externos.  
