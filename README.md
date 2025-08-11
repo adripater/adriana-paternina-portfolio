@@ -41,4 +41,18 @@ La sede Medellín fue una de las sedes nacionales más destacadas, con participa
 - Jader Rengifo David  
 - Milady Aguilera Cardona  
 
-Agradecimientos especiales a todas las dependencias de la Universidad Nacional de Colombia — Sede Medellín y a las empresas y aliados externos que hicieron posible la realización de este evento.
+Agradecimientos especiales a todas las dependencias de la Universidad Nacional de Colombia, Sede Medellín, y a las empresas y aliados externos que hicieron posible la realización de este evento.
+
+---
+
+## Nota personal de Adriana
+
+En estos momentos me encuentro estudiando Ingeniería de Software en la Universidad Laval. Ha sido un desafío enorme, empezando porque tuve que aprender francés. Antes sabía de la existencia de GitHub, pero pensaba que era solo para programadores y que solo si sabía programar podía utilizarlo. Me di cuenta de que puedo usarlo para documentar mi proceso, para mostrar (y recordarme a mí misma) de lo que soy capaz.  
+
+El Rally Latinoamericano de Innovación en 2015 fue uno de dos proyectos que tuve a cargo durante mi paso por el CD+I de la Facultad de Minas (en otros fui parte del equipo sin dirigir). Cabe destacar que estaba terminando mis estudios de maestría al mismo tiempo y que en 2013 fui campeona nacional de taekwondo (un torneo nacional, no los juegos nacionales). Mi mentalidad orientada a objetivos fue fundamental, así como esa visión de buscar cómo hacer que algo suceda en lugar de enfocarme en por qué no sucederá.  
+
+De un momento a otro me encontré conversando con otras universidades para coordinar y lograr que Colombia tuviera representación en este Rally. Recuerdo con agrado las conversaciones con Miguel desde Argentina. Fue un trabajo colaborativo que se sentía como mi segunda naturaleza y me gustó mucho descubrir eso en mí.  
+
+Por supuesto, nada hubiese sido posible sin el increíble equipo que me rodeaba: el profe Andrés, que puso su confianza en mí (todavía no entiendo qué me vio, la verdad); Alejandro, un genio en marketing y comunicaciones que ya conocía mucho de la burocracia en la Universidad, lo cual fue fundamental; Jader, con más tiempo en la institución y cuya experiencia fue de gran ayuda; y finalmente Milady, que en ese momento era estudiante y colaboraba como pasante, siempre con un trabajo impecable, sin miedo a hablar, sin miedo a dar ideas y dispuesta a cualquier tarea que el proyecto requiriera, entregando siempre calidad.  
+
+Kudos al equipo de voluntarios y a todo el equipo de la Universidad Nacional. Sin ellos nada hubiese sido posible.
