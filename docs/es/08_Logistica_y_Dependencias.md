@@ -3,7 +3,7 @@
 # Logística y Dependencias Involucradas
 
 El **Rally Latinoamericano de Innovación 2015 - Colombia** implicó la coordinación de múltiples dependencias internas de la Universidad Nacional de Colombia y aliados externos.  
-La gestión logística fue liderada por **Adriana Paternina**, coordinadora nacional del evento, quien estuvo a cargo de **articular, comunicar y coordinar** con todas las áreas para garantizar que cada detalle estuviera listo antes y durante las 28 horas de competencia. Su trabajo incluyó la planificación previa, el seguimiento a cada dependencia y la resolución en tiempo real de necesidades operativas.
+La gestión logística fue liderada por **Adriana Paternina**, Coordinadora General de la sede Medellín, quien estuvo a cargo de **articular, comunicar y coordinar** con todas las áreas para garantizar que cada detalle estuviera listo antes y durante las 28 horas de competencia. Su trabajo incluyó la planificación previa, el seguimiento a cada dependencia y la resolución en tiempo real de necesidades operativas.
 
 Esta labor se realizó en articulación con el **Centro de Desarrollo e Innovación (CD+I)** de la Facultad de Minas y bajo la dirección del **profesor Andrés Osorio**.
 
