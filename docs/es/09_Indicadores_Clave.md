@@ -1,3 +1,5 @@
+**Language / Idioma:** [ES](../es/09_Indicadores_Clave.md) | [EN](../en/09_Key_Indicators.md)
+
 # Indicadores clave - Rally Latinoamericano de Innovación 2015 (Colombia)
 
 ## Panorama general
