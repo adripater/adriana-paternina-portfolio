@@ -3,7 +3,7 @@
 # Logistics and Involved Dependencies
 
 The **2015 Latin American Innovation Rally - Colombia** required the coordination of multiple internal departments of the National University of Colombia and external partners.  
-Logistical management was led by **Adriana Paternina**, national coordinator of the event, who was responsible for **articulating, communicating, and coordinating** with all areas to ensure that every detail was ready before and during the 28 hours of competition. Her work included prior planning, continuous follow-up with each department, and real-time resolution of operational needs.
+Logistical management was led by **Adriana Paternina**, General Coordinator of the Medellín campus, who was responsible for **articulating, communicating, and coordinating** with all areas to ensure that every detail was ready before and during the 28 hours of competition. Her work included prior planning, continuous follow-up with each department, and real-time resolution of operational needs.
 
 This effort was carried out in collaboration with the **Centro de Desarrollo e Innovación (CD+I)** of the Faculty of Mines and under the direction of **Professor Andrés Osorio**.
 
