@@ -1,3 +1,5 @@
+**Language / Idioma:** [ES](05_Ganadores.md) | [EN](05_Winning_Results.md)
+
 # Videos públicos de ganadores - Rally Latinoamericano de Innovación 2015  
 Sede Medellín, Universidad Nacional de Colombia
 
