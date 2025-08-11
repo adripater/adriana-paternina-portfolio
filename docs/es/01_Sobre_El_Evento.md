@@ -1,4 +1,4 @@
-**Language / Idioma:** [ES](../es/01_Sobre_El_Evento.md) | [EN](../en/01_About_The_Event.md)
+**Language / Idioma:** [ES](../es/01_Sobre_El_Evento.md) | [EN](../en/01_About_the_Event.md)
 
 # Sobre el evento
 
