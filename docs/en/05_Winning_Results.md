@@ -1,4 +1,4 @@
-**Language / Idioma:** [ES](05_Ganadores.md) | [EN](05_Winning_Results.md)
+**Language / Idioma:** [ES](../es/05_Ganadores.md) | [EN](05_Winning_Results.md)
 
 # Winning Results – Colombia 2015
 
