@@ -1,4 +1,4 @@
-**Language / Idioma:** [ES](06_Videos_Publicos.md) | [EN](06_Public_Videos.md)
+**Language / Idioma:** [ES](../es/06_Videos_Publicos.md) | [EN](06_Public_Videos.md)
 
 # Public Videos of Winners - Latin American Innovation Rally 2015  
 Medellín Campus, National University of Colombia
