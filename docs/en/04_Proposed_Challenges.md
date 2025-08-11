@@ -1,4 +1,4 @@
-**Language / Idioma:** [ES](04_Retos_Propuestos.md) | [EN](04_Proposed_Challenges.md)
+**Language / Idioma:** [ES](../es/04_Retos_Propuestos.md) | [EN](04_Proposed_Challenges.md)
 
 # Proposed Challenges - Latin American Innovation Rally 2015  
 Medellín Campus, National University of Colombia
