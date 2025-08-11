@@ -1,4 +1,4 @@
-**Language / Idioma:** [ES](05_Ganadores.md) | [EN](05_Winning_Results.md)
+**Language / Idioma:** [ES](05_Ganadores.md) | [EN](../en/05_Winning_Results.md)
 
 # Resultados Ganadores – Colombia 2015
 
