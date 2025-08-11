@@ -1,4 +1,4 @@
-**Language / Idioma:** [ES](03_Empresas_Participantes.md) | [EN](03_Participating_Companies.md)
+**Language / Idioma:** [ES](../es/02_Rol_y_Responsabilidades.md) | [EN](../en/02_Role_and_Responsibilities.md)
 
 # Rol y responsabilidades
 
