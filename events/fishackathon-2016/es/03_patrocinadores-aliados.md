@@ -1,4 +1,4 @@
-# Patrocinadores y aliados – Fishackathon 2016  
+# Patrocinadores y aliados
 [English version](../en/03_sponsors-partners.md)
 
 ## 🤝 Promotores principales
