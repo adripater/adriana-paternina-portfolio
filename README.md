@@ -19,7 +19,7 @@ But first, here are three fun facts about me that have nothing to do with work o
 
 1. I’ve been training taekwondo since 2004, I’m a black belt since 2009, and I became a national champion in 2013 in a tournament held by the Colombian Taekwondo Federation.  
 2. I’m a contralto or mezzo-soprano and was part of a choir for a while. But you’ll have to play the note for me to replicate it because I never learned to read music (I might someday).  
-3. I’m an aunt to 5 nieces and nephews: 4 boys and 1 girl. The only ones who are still kids (as of this portfolio’s creation date) are the youngest two; the first three are already teenagers. At this rate, the oldest will probably start university the same time I do… send help!  
+3. I’m an aunt to 5 wonderful kids: 4 nephews and 1 niece. As of this portfolio’s creation date, only the youngest two are still children — the first three are already teenagers. At this rate, the oldest will probably start university the same time I do… send help!
 
 Thanks for reading. I still don’t know how to code well, but I do what I can, and it’s fun to collect my past projects here.  
 Hope you enjoy it - and if by any chance you want to hire me for something... pay well because life is expensive, and I was blessed with expensive taste.  
