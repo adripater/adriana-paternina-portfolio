@@ -1,4 +1,4 @@
-# Financiación y presupuesto – Fishackathon 2016  
+# Financiación y presupuesto
 [English version](../en/02_funding-budget.md)
 
 ## 💰 Fuentes de financiación
