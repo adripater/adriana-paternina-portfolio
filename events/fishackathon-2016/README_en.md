@@ -1,18 +1,18 @@
-# Fishackathon 2016 – General Coordination  
+# Fishackathon 2016 - General Coordination  
 [Versión en español](README.md)
 
 ## 📜 Overview
 The **Fishackathon 2016** was an international technological innovation event focused on solving sustainable fishing challenges, promoted by the U.S. Department of State, the American Embassy, and Conservation International, with the National University of Colombia hosting the Medellín venue.  
 
-Over three days, students and professionals from diverse disciplines worked in teams to develop technological solutions to real-world problems presented by the global initiative. As **General Coordinator**, I led the planning, execution, and closing of the event, ensuring that every area - logistics, partnerships, communications, volunteer management, academic program, and financial administration - operated in sync.
+Over three days, students and professionals from diverse disciplines worked in teams to develop technological solutions to real-world problems presented by the global initiative. As **General Coordinator**, I led the planning, execution, and closing of the event, ensuring that every area —logistics, partnerships, communications, volunteer management, academic program, and financial administration— operated in sync.
 
 ## 📂 Table of Contents
-1. [About the event](about-the-event.md) – Context, scope, and objectives.  
-2. [Funding and budget](funding-budget.md) – Resource sources, counterpart contributions, and execution.  
-3. [Sponsors and partners](sponsors-partners.md) – Promoting and collaborating entities.  
-4. [Participants and dynamics](participants-dynamics.md) – Profiles, origins, and event functioning.  
-5. [Key indicators](key-indicators.md) – Metrics and highlighted achievements.  
-6. [Impact and results](impact-results.md) – Developed solutions and projection.
+1. [About the event](en/01_about_the_event.md) – Context, scope, and objectives.  
+2. [Funding and budget](en/02_funding-budget.md) – Resource sources, counterpart contributions, and execution.  
+3. [Sponsors and partners](en/03_sponsors-partners.md) – Promoting and collaborating entities.  
+4. [Participants and dynamics](en/04_participants-dynamics.md) – Profiles, origins, and event functioning.  
+5. [Key indicators](en/05_key-indicators.md) – Metrics and highlighted achievements.  
+6. [Impact and results](en/06_impact-results.md) – Developed solutions and projection.
 
 ## 📊 Impact
 - Interdisciplinary teams developing functional prototypes for sustainable fishing.  
