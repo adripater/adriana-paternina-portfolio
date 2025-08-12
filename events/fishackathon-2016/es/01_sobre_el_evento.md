@@ -1,4 +1,4 @@
-# Sobre el evento – Fishackathon 2016  
+# Sobre el evento
 [English version](../en/01_about_the_event.md)
 
 ## 🌍 Contexto internacional
