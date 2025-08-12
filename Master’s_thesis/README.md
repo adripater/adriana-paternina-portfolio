@@ -1,4 +1,4 @@
-# Social Network Analysis of Innovation Cooperation in Colombian Firms (2010–2012)
+# Cooperation for Innovation in Colombian Firms: A Longitudinal Social Network Analysis Using EDIT Surveys (2010–2012)
 
 ## Overview
 This research analyzed cooperation networks among Colombian firms using data from the **6th National Survey on Technological Development and Innovation (EDIT VI)**, which covered the period **2010–2012**. The study applied **Social Network Analysis (SNA)** techniques to identify patterns, central actors, and structural properties of innovation cooperation.
