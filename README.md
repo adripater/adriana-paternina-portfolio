@@ -22,4 +22,4 @@ But first, here are three fun facts about me that have nothing to do with work o
 3. I’m an aunt to 5 nieces and nephews: 4 boys and 1 girl. The only ones who are still kids (as of this portfolio’s creation date) are the youngest two; the first three are already teenagers. At this rate, the oldest will probably start university the same time I do… send help!  
 
 Thanks for reading. I still don’t know how to code well, but I do what I can, and it’s fun to collect my past projects here.  
-Hope you enjoy it — and if by any chance you want to hire me for something... pay well because life is expensive, and I was blessed with expensive taste.  
+Hope you enjoy it - and if by any chance you want to hire me for something... pay well because life is expensive, and I was blessed with expensive taste.  
