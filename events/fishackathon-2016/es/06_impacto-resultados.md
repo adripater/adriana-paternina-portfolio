@@ -1,4 +1,4 @@
-# Impacto y resultados – Fishackathon 2016  
+# Impacto y resultados
 [English version](../en/06_impact-results.md)
 
 ## 🌍 Impacto general
